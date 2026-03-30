@@ -77,6 +77,7 @@ BERT 提取的语义特征同时支撑两个任务。意图识别利用 `[CLS]` 
 # bert训练结果参数
 
 意图识别：
+
 accuracy:0.9573643410852714
 
 precision:0.9573643410852714
@@ -118,10 +119,16 @@ weighted avg       0.95      0.96      0.95       516
 
 
 槽位填充：
+
 accuracy:0.9164364640883977
+
 precision:0.711864406779661
+
 recall:0.7753846153846153
+
 f1:0.7422680412371133
+
+
 ```text
                    precision    recall  f1-score   support
 

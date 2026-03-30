@@ -78,9 +78,13 @@ BERT 提取的语义特征同时支撑两个任务。意图识别利用 `[CLS]` 
 
 意图识别：
 accuracy:0.9573643410852714
+
 precision:0.9573643410852714
+
 recall:0.9573643410852714
+
 f1:0.9573643410852714
+
 
 ```text
               precision    recall  f1-score   support

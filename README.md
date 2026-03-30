@@ -118,7 +118,7 @@ accuracy:0.9164364640883977
 precision:0.711864406779661
 recall:0.7753846153846153
 f1:0.7422680412371133
-```json
+```text
                    precision    recall  f1-score   support
 
              Dest       0.67      0.29      0.40         7
@@ -174,7 +174,7 @@ location_province       0.00      0.00      0.00         3
      weighted avg       0.68      0.78      0.72       650
 ```
 
-```json
+```text
 =================================
 打开相机这
 意图： LAUNCH
